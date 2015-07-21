@@ -29,3 +29,12 @@ proguard/
 # Other Android Studio files
 .idea
 *.iml
+
+# Android Studio's original gitignore
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
